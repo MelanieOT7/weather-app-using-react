@@ -7,14 +7,29 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was coded by {""}
-          <a href="shecode.io" target="_blank">
+          <a
+            href="https://github.com/MelanieOT7"
+            target="_blank"
+            rel="noreferrer"
+          >
             Ntando Ngcobo
           </a>
           {""} and is open-sourced on {""}
-          <a href="shecodes.io" target="_blank">
+          <a
+            href="https://github.com/MelanieOT7/weather-app-using-react"
+            rel="noreferrer"
+            target="_blank"
+          >
             GitHub
           </a>
-          {""} and Hosted on{""} <a href="/">Netlify</a>
+          {""} and Hosted on{""}{" "}
+          <a
+            href="https://sunny-druid-0af9e3.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
