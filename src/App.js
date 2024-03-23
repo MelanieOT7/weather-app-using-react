@@ -7,11 +7,11 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was coded by
-          <a href="#" target="_blank">
+          <a href="shecode.io" target="_blank">
             Ntando Ngcobo
           </a>
           and is
-          <a href="#" target="_blank">
+          <a href="shecodes.io" target="_blank">
             open-sourced on GitHub
           </a>
         </footer>
